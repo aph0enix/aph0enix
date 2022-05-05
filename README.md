@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam Phoenix
-- 👀 I’m interested in JS, Python, Full Stack Development, and Machine Learning
-- 🌱 I’m currently learning JS and Full Stack Development
+- 👀 I’m interested in JS, Python, and Machine Learning
+- 🌱 I’m currently learning JS and some JS Frameworks
 - 💞️ I’m looking to collaborate on side projects
 - 📫 How to reach me ...
 
